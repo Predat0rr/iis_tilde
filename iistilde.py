@@ -1,9 +1,10 @@
+# Author: Aidin NaseriFard
 import urllib2
 files = list()
 types = list()
 site ='http://Example.com/'
 
-print "++++++++++Aidin NaseriFard++++++++++++++++"
+print "+++++++++Aidin NaseriFard++++++++++++++++"
 print "+++++++++Files Name+++++++++++++++++++++++++"
 print "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 for i in range(97,122):
